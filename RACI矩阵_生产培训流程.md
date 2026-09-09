@@ -4,12 +4,11 @@
 
 | 角色代码 / Role | 角色名称 / Role Name | 当前代表人 / Current Holder |
 |----------|----------|------------|
-| TM | 集团培训经理 / Group Training Manager | 吴斌 / Wu Bin |
-| TS | 项目培训主管 / Project Training Supervisor | Hamid (NX) / TBD (VT) |
+| TM | 集团培训 / Group Training Manager |  |
+| TS | 培训协调 / Training coordinator | |
 | TR | 一线培训师 (按班次/工艺) / Front-line Trainer (by shift/process) | 5名培训师 / 5 Trainers |
-| TC | 培训文员/数据管理员 / Training Clerk / Data Administrator | 孙士奇 / Sun Shiqi |
-| HR | HR培训专员 / HR Training Specialist | Iman |
-| TL | 生产班组长 / Production Team Leader | 各班组 / Each Team |
+| HR | HR培训专员 / HR Training Specialist | |
+| TL | 生产班组长 / Production Team Leader | |
 
 ## RACI 图例 / RACI Legend
 
@@ -117,7 +116,13 @@
 | 9.4 | 整改完成验证与证据提交 / Corrective Action Verification & Evidence Submission | C | R | R | C | A | I |
 | 9.5 | 审核发现的内部分享与预防 / Internal Sharing & Prevention of Audit Findings | A | R | C | C | C | C |
 
-## 模块十：持续改进 / Module 10: Continuous Improvement
+## 模块十：培训教材 / Module 10: Training material
+
+| # | 流程环节 / Process Step | TM | TS | TR | TC | HR | TL |
+| --- | ---------- | ---- | ---- | ---- | ---- | ---- | ---- |
+
+
+## 模块十一：持续改进 / Module 10: Continuous Improvement
 
 | # | 流程环节 / Process Step | TM | TS | TR | TC | HR | TL |
 | --- | ---------- | ---- | ---- | ---- | ---- | ---- | ---- |
